@@ -1,4 +1,4 @@
-import { SelectablePage } from '../pages/SelectablePage';
+import { SelectablePage } from "../pageObjects/SelectablePage";
 
 describe('Selectable Grid', () => {
     beforeEach(() => {
